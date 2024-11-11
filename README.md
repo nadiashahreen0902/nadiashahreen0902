@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadia Shahreen</h1>
 <h3 align="center">Aspiring Software Developer, Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiashahreen0902&label=Profile%20views&color=0e75b6&style=flat" alt="nadiashahreen" /> </p>
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Software Development projects**
