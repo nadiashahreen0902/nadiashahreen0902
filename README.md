@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Software Development projects**
 
-- 🤝 I’m looking for help with **Reactjs**
-
 - 💬 Ask me about **Development**
 
 - 📫 Reach me at **nadiashahreen12345@gmail.com**
